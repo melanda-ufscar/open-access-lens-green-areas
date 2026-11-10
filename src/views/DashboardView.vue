@@ -50,7 +50,8 @@ const categories = [
 const adminLevels = [
   { value: 'ADM0', label: 'Country / Admin 0' },
   { value: 'ADM1', label: 'Admin 1' },
-  { value: 'ADM2', label: 'Admin 2' }
+  { value: 'ADM2', label: 'Admin 2' },
+  { value: 'ADM3', label: 'Admin 3' }
 ];
 
 
