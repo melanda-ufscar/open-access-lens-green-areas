@@ -1,6 +1,6 @@
 # Open Access Lens
 
-A visual tool to explore healthcare accessibility across the globe using isochrones. Linkin to HDX for download and vice versa for quick visuals
+A visual tool to explore accessibility to Green Spaces across the globe using isochrones. Linkin to HDX for download and vice versa for quick visuals
 
 ## Overview
 
